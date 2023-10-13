@@ -8,5 +8,5 @@
       "onAutoForward": "openPreview"
     }
   },
-  "forwardPorts": 5173   // default port vite uses
+  "forwardPorts": 5173
 }
